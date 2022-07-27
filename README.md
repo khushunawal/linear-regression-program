@@ -1,1 +1,1 @@
-# linear-regression-program
+# Internship-Linear-regression
